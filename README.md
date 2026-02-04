@@ -1,4 +1,26 @@
-<p align="left">Hi there,<br><br>Backend Developer | Python & Django Enthusiast | Automation & ML Lover<br><br>I’m passionate about building scalable, reliable, and data-driven backend systems. I focus on data, architecture, performance, and reliability, solving complex problems step by step.<br><br>Skills & Expertise:<br><br>Languages & Frameworks: Python, Django, Django REST Framework (DRF)<br><br>Backend & Architecture: RESTful API design, JWT & OAuth authentication, Database design & optimization (MySQL, ORM, indexing, transactions), Background tasks with Celery & Celery Beat, Signals & decorators, Problem-solving & debugging complex systems<br><br>DevOps & Deployment: Docker, deployment concepts, hands-on app deployment, Git & team workflow experience<br><br>Passions & Interests: Automation & workflow optimization, Machine Learning integration, Building reliable, scalable systems, Continuous learning (business logic, product design, new tech)<br><br>What I Focus On:<br><br>Thinking about data, scale, and reliability before writing code<br><br>Designing clean model chains and maintainable databases<br><br>Debugging and fixing issues step by step<br><br>Turning ideas into real-world applications<br><br>Fun Fact:<br>Backend development is more than writing code — it’s about solving real problems, thinking about users, and building robust systems that last.</p>
+<p align="left">Hi there 👋,
+
+I am a Backend Developer | Python & Django Enthusiast | Automation & ML Lover.
+
+💡 I’m passionate about building scalable, reliable, and data-driven backend systems. I focus on data, architecture, performance, and reliability, solving complex problems step by step.
+
+🛠️ Skills & Expertise:
+
+🐍 Languages & Frameworks: Python, Django, Django REST Framework (DRF)
+
+🌐 Backend & Architecture: RESTful API design, authentication & authorization, database design & optimization, background tasks with Celery, problem-solving & debugging complex systems
+
+🤖 Passions & Interests: Automation & workflow optimization, machine learning integration, building reliable, scalable systems, continuous learning (business logic, product design, new tech)
+
+🎯 What I Focus On:
+
+📊 Thinking about data, scale, and reliability before writing code
+
+🧩 Designing clean model chains and maintainable databases
+
+🔧 Debugging and fixing issues step by step
+
+🚀 Turning ideas into real-world applications</p>
 
 ###
 
