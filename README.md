@@ -1,4 +1,4 @@
-<p align="left"># Hi there 👋, I'm [Your Name]<br><br>**Backend Developer | Python & Django Enthusiast | Automation & ML Lover**<br><br>I’m passionate about building **scalable, reliable, and data-driven backend systems**. My focus goes beyond coding — I think deeply about **data, architecture, performance, and reliability**, solving complex problems step by step.  <br><br>---<br><br>## 🛠️ Skills & Expertise<br><br>**Languages & Frameworks:**  <br>- Python, Django, Django REST Framework (DRF)<br><br>**Backend & Architecture:**  <br>- RESTful API design, JWT & OAuth authentication  <br>- Database design & optimization (MySQL, ORM, indexing, transactions)  <br>- Background tasks with Celery & Celery Beat  <br>- Signal and decorator usage for clean, maintainable code  <br>- Problem-solving & debugging complex systems  <br><br>**DevOps & Deployment:**  <br>- Docker, deployment concepts, hands-on app deployment  <br>- Git & team workflow experience  <br><br>**Passions & Interests:**  <br>- Automation & workflow optimization  <br>- Machine Learning integration with backend systems  <br>- Building reliable, scalable systems  <br>- Continuously learning business logic, product design, and new tech  <br><br>---<br><br>## 📈 What I Focus On<br><br>- Thinking about **data, scale, and reliability** before writing code  <br>- Designing **clean model chains and maintainable databases**  <br>- Debugging and fixing issues **step by step**  <br>- Turning ideas into **real-world applications**  <br><br>---<br><br>## 💡 Fun Fact<br><br>Backend development is more than writing code — it’s about solving **real problems, thinking about users, and building robust systems** that last.  <br><br>---<br><br>Feel free to connect with me or check out my repositories below!</p>
+<p align="left">Hi there,<br><br>Backend Developer | Python & Django Enthusiast | Automation & ML Lover<br><br>I’m passionate about building scalable, reliable, and data-driven backend systems. I focus on data, architecture, performance, and reliability, solving complex problems step by step.<br><br>Skills & Expertise:<br><br>Languages & Frameworks: Python, Django, Django REST Framework (DRF)<br><br>Backend & Architecture: RESTful API design, JWT & OAuth authentication, Database design & optimization (MySQL, ORM, indexing, transactions), Background tasks with Celery & Celery Beat, Signals & decorators, Problem-solving & debugging complex systems<br><br>DevOps & Deployment: Docker, deployment concepts, hands-on app deployment, Git & team workflow experience<br><br>Passions & Interests: Automation & workflow optimization, Machine Learning integration, Building reliable, scalable systems, Continuous learning (business logic, product design, new tech)<br><br>What I Focus On:<br><br>Thinking about data, scale, and reliability before writing code<br><br>Designing clean model chains and maintainable databases<br><br>Debugging and fixing issues step by step<br><br>Turning ideas into real-world applications<br><br>Fun Fact:<br>Backend development is more than writing code — it’s about solving real problems, thinking about users, and building robust systems that last.</p>
 
 ###
 
@@ -58,20 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utashell/utashell/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utashell/utashell/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/utashell/utashell/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
